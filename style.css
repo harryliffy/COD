@@ -1,0 +1,36 @@
+
+.human{
+    background-color: red;
+    color:#d1008b;
+    
+
+}
+.human>p{
+    background-color:black;
+}
+.humans{
+    background-color: rgb(128, 89, 89);
+    color:#d1008b;
+    
+
+}
+
+.row1{
+
+}
+
+.row2{
+
+}
+
+.row3{
+
+}
+
+.slider{
+background-color: red;
+}
+
+.feed{
+    background-color: rgb(27, 192, 233);
+}
